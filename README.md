@@ -7,11 +7,4 @@ Users can:
     Follow and unfollow other users
     Inspect a feed of messages from users that you follow
 
-
-
-Setup
-
-
-python3 
-activate a virtual enviroment
-install django==3.2.5
+Future updates will allow users to upload images, videos and redirect lings to other urls.
